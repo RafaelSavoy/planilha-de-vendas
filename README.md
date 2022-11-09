@@ -1,7 +1,7 @@
 <h1>Planilha de Vendas</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Next.JS&message=LANG&color=blue&style=for-the-badge&logo=PYTHON"/>
+  <img src="https://img.shields.io/static/v1?label=Python&message=LANG&color=blue&style=for-the-badge&logo=PYTHON"/>
   <img src="https://img.shields.io/static/v1?label=Pandas&message=lib&color=blue&style=for-the-badge&logo=pandas"/>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=RED&style=for-the-badge"/>
 </p>
